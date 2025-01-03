@@ -1,4 +1,4 @@
-> [**Return to Portfolio home**](https://github.com/krista-lowry/portfolio)
+> [**Return to Portfolio home**](https://krista-lowry.github.io/portfolio/)
 
 # Project 2: Funnel Conversion Rate Optimization and A/B Testing
 This project materialized after my team made an observation, over multiple previous CRO experiments, that a few distinct user patterns were emerging. We were noticing the following user types and associated behavior patterns:
@@ -74,3 +74,5 @@ Ultimately, the data showed that we can't detect any effect over the control tow
 
 ## Looking forward
 We planned to expand this test on a larger scale. If we increase popup impressions by rolling this out on more pages and sustain the high conversion rate on the click-through posts, then we could generate signficant total revenue lift. 
+
+> [**Return to Portfolio home**](https://krista-lowry.github.io/portfolio/)
