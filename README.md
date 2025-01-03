@@ -1,9 +1,10 @@
-# Project 2: Funnel CRO
-This project materialized after my team made an observation, over multiple previous CRO experiments, that a few distinct user patterns were emerging. We were noticing the following user types and associated behavior patterns: 
+> [**Return to Portfolio home**](https://github.com/krista-lowry/portfolio)
+
+# Project 2: Funnel Conversion Rate Optimization and A/B Testing
+This project materialized after my team made an observation, over multiple previous CRO experiments, that a few distinct user patterns were emerging. We were noticing the following user types and associated behavior patterns:
 - Bouncers (users who don't convert)
 - Clickers (users who convert)
-
-*In this context, conversion = ad clicks*
+Although these user segments are obvious (anyone who doesn't convert is a bouncer, right?), they were important for us to distinguish because we needed to intentionally optimize for the non-converter behavior pattern.
 
 It was clear in our past winning experiments that we had optimized for the Clickers user segment well, but were missing the mark on the Bouncers. To approach this problem, we needed a clearer view of the Bouncers and their behavior patterns: Did they spend time on the page and leave, or did they leave right away? If they did spend time on the page, what were they doing?
 
@@ -67,9 +68,9 @@ Success Criteria:
 Ultimately, the data showed that we can't detect any effect over the control towards the negative or positive: Revenue KPI deltas were below the defined MDE of 8%.
 
 **Popup data**: The popup had a very low CTR (<5%), but intent was high in the users who did click on a related post. In fact, after the user clicked on a related post, they exhibited behaviors similar to the Clickers:
-- Conversons on the click-through posts were higher than average
-- Scroll depth on the click-through posts were lower than average
-- Users who converted on a click-through post did so within 20 seconds
+- Conversons on the Related Posts were higher than average
+- Scroll depth on the Related Posts were lower than average
+- Users who converted on a Related Post did so within 20 seconds
 
 ## Looking forward
 We planned to expand this test on a larger scale. If we increase popup impressions by rolling this out on more pages and sustain the high conversion rate on the click-through posts, then we could generate signficant total revenue lift. 
