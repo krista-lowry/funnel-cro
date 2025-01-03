@@ -1,5 +1,7 @@
 > [**Return to Portfolio home**](https://krista-lowry.github.io/portfolio/)
 
+>[Access Project in Git View](https://github.com/krista-lowry/funnel-cro)
+
 # Project 2: Funnel Conversion Rate Optimization and A/B Testing
 This project materialized after my team made an observation, over multiple previous CRO experiments, that a few distinct user patterns were emerging. We were noticing the following user types and associated behavior patterns:
 - Bouncers (users who don't convert)
