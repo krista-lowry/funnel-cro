@@ -1,4 +1,4 @@
-> [**Return to Portfolio home**](https://krista-lowry.github.io/portfolio/)
+> [**Return to Portfolio home**](https://krista-lowry.com)
 
 >[Access Project in Git View](https://github.com/krista-lowry/funnel-cro)
 
